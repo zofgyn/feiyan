@@ -1,5 +1,4 @@
-CREATE DATABASE fy_admin_system;
-USE fy_admin_system;
+USE study_room;
 
 -- 用户表
 CREATE TABLE fy_user (
